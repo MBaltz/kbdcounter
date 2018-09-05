@@ -1,0 +1,750 @@
+read 2603856 records
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_CONTROL_L
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_ALT_L
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_F
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_X
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_A
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_S
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_CONTROL_L
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_CONTROL_L
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_CONTROL_L
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_SHIFT_L
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_ALT_L
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_RETURN
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_ESCAPE
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_F
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_2
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_6
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_SUPER_L
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_SUPER_L
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_2
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_D
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_ISO_LEVEL3_SHIFT
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_BACKSPACE
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_RETURN
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_A
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_N
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_F
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_D
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_M
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_G
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_BACKSPACE
+WARNING: ignoring key pressed for longer than 60 seconds: KEY_7
+combined
+	('KEY_UP', 'KEY_ISO_LEVEL3_SHIFT'): 1
+	('KEY_C', 'KEY_CONTROL_L'): 1
+	('KEY_TAB', 'KEY_T', 'KEY_R'): 1
+	('KEY_SPACE', 'KEY_H', 'KEY_W', 'KEY_U'): 1
+	('KEY_SPACE', 'KEY_L', 'KEY_E'): 1
+	('KEY_SPACE', 'KEY_3', 'KEY_H', 'KEY_W', 'KEY_U'): 1
+	('KEY_S', 'KEY_CAPS_LOCK', 'KEY_V'): 1
+	('KEY_DOWN', 'KEY_RIGHT'): 1
+	('KEY_DELETE', 'KEY_U'): 1
+	('KEY_SPACE', 'KEY_E', 'KEY_BACKSPACE'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_S', 'KEY_U', 'KEY_BACKSPACE'): 1
+	('KEY_T', 'KEY_ISO_LEVEL3_SHIFT', 'KEY_R'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_D'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_L'): 1
+	('KEY_INSERT', 'KEY_ODIAERESIS'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_L'): 1
+	('KEY_0', 'KEY_MINUS'): 1
+	('KEY_F', 'KEY_ISO_LEVEL3_SHIFT', 'KEY_B'): 1
+	('KEY_G', 'KEY_SPACE', 'KEY_F', 'KEY_BACKSPACE'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_3', 'KEY_D', 'KEY_U', 'KEY_F'): 1
+	('KEY_Y', 'KEY_Q', 'KEY_SPACE'): 1
+	('KEY_H', 'KEY_ESCAPE', 'KEY_T'): 1
+	('KEY_N', 'KEY_I', 'KEY_SHIFT_L'): 1
+	('KEY_W', 'KEY_CONTROL_L'): 1
+	('KEY_SPACE', 'KEY_V'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_N', 'KEY_BACKSPACE'): 1
+	('KEY_SPACE', 'KEY_PAGE_DOWN'): 1
+	('KEY_O', 'KEY_SPACE', 'KEY_W', 'KEY_8', 'KEY_F', 'KEY_Q'): 1
+	('KEY_ADIAERESIS', 'KEY_SPACE', 'KEY_P', 'KEY_Z'): 1
+	('KEY_D', 'KEY_N', 'KEY_U', 'KEY_BACKSPACE', 'KEY_T'): 1
+	('KEY_TAB', 'KEY_CONTROL_R'): 1
+	('KEY_SPACE', 'KEY_L', 'KEY_T', 'KEY_E'): 1
+	('KEY_PERIOD', 'KEY_H'): 1
+	('KEY_8', 'KEY_SPACE', 'KEY_W', 'KEY_2', 'KEY_3', 'KEY_K', 'KEY_H', 'KEY_F'): 1
+	('KEY_K', 'KEY_SHIFT_L', 'KEY_CONTROL_L'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_I', 'KEY_D', 'KEY_E', 'KEY_T'): 1
+	('KEY_K', 'KEY_ESCAPE'): 1
+	('KEY_SPACE', 'KEY_I', 'KEY_D', 'KEY_U'): 1
+	('KEY_SPACE', 'KEY_D', 'KEY_F'): 1
+	('KEY_Y', 'KEY_SSHARP'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_V', 'KEY_L', 'KEY_3'): 1
+	('KEY_O', 'KEY_G', 'KEY_2', 'KEY_SPACE', 'KEY_W', 'KEY_8', 'KEY_9', 'KEY_F', 'KEY_D', 'KEY_Q'): 1
+	('KEY_H', 'KEY_PRIOR'): 1
+	('KEY_TAB', 'KEY_H'): 1
+	('KEY_8', 'KEY_SPACE', 'KEY_W', 'KEY_3', 'KEY_K', 'KEY_H'): 1
+	('KEY_SPACE', 'KEY_U', 'KEY_BACKSPACE'): 1
+	('KEY_SUPER_L', 'KEY_I', 'KEY_A'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_L', 'KEY_S'): 1
+	('KEY_SHIFT_R', 'KEY_DUNNO'): 1
+	('KEY_G', 'KEY_Q', 'KEY_SPACE', 'KEY_W', 'KEY_2', 'KEY_3', 'KEY_K', 'KEY_V'): 1
+	('KEY_MINUS', 'KEY_SHIFT_L'): 1
+	('KEY_A', 'KEY_CONTROL_L'): 1
+	('KEY_N', 'KEY_SHIFT_L', 'KEY_R'): 1
+	('KEY_N', 'KEY_ISO_LEVEL3_SHIFT', 'KEY_R'): 1
+	('KEY_END', 'KEY_CONTROL_L'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_O', 'KEY_L', 'KEY_S', 'KEY_U'): 1
+	('KEY_SPACE', 'KEY_T', 'KEY_E', 'KEY_U'): 1
+	('KEY_SPACE', 'KEY_W', 'KEY_3', 'KEY_K'): 1
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_M', 'KEY_B'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_L', 'KEY_D'): 1
+	('KEY_CONTROL_L', 'KEY_PRIOR'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_L', 'KEY_H', 'KEY_D', 'KEY_W', 'KEY_N'): 1
+	('KEY_SPACE', 'KEY_W', 'KEY_2', 'KEY_3', 'KEY_K'): 1
+	('KEY_KP_DIVIDE', 'KEY_KP_HOME', 'KEY_NUM_LOCK'): 1
+	('KEY_COMMA', 'KEY_SHIFT_L'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_D', 'KEY_U', 'KEY_F'): 1
+	('KEY_PAGE_DOWN', 'KEY_ESCAPE'): 1
+	('KEY_SHIFT_R', 'KEY_F'): 1
+	('KEY_SPACE', 'KEY_K', 'KEY_H'): 1
+	('KEY_LEFT', 'KEY_CONTROL_L'): 1
+	('KEY_PERIOD', 'KEY_SSHARP', 'KEY_D'): 1
+	('KEY_TAB', 'KEY_N'): 1
+	('KEY_O', 'KEY_SPACE', 'KEY_S'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_I', 'KEY_O', 'KEY_S', 'KEY_E', 'KEY_U'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_D', 'KEY_N'): 1
+	('KEY_SPACE', 'KEY_E', 'KEY_U'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_L', 'KEY_3', 'KEY_D'): 1
+	('KEY_RETURN', 'KEY_R'): 1
+	('KEY_PERIOD', 'KEY_U'): 1
+	('KEY_ADIAERESIS', 'KEY_Z', 'KEY_P'): 1
+	('KEY_SPACE', 'KEY_U', 'KEY_BACKSPACE', 'KEY_T'): 1
+	('KEY_S', 'KEY_T', 'KEY_SHIFT_L'): 1
+	('KEY_C', 'KEY_CAPS_LOCK'): 1
+	('KEY_ADIAERESIS', 'KEY_N'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_I', 'KEY_L', 'KEY_S', 'KEY_N', 'KEY_D', 'KEY_U', 'KEY_R', 'KEY_BACKSPACE'): 1
+	('KEY_O', 'KEY_SPACE', 'KEY_W', 'KEY_8', 'KEY_F'): 1
+	('KEY_TAB', 'KEY_U', 'KEY_R'): 1
+	('KEY_J', 'KEY_UP', 'KEY_ISO_LEVEL3_SHIFT'): 1
+	('KEY_SUPER_L', 'KEY_ESCAPE'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_V', 'KEY_L', 'KEY_3', 'KEY_D', 'KEY_U', 'KEY_F'): 1
+	('KEY_CONTROL_L', 'KEY_K'): 1
+	('KEY_SPACE', 'KEY_W', 'KEY_2', 'KEY_3', 'KEY_K', 'KEY_H'): 1
+	('KEY_LEFT', 'KEY_COMMA', 'KEY_BACKSPACE'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_H', 'KEY_D', 'KEY_U'): 1
+	('KEY_SUPER_L', 'KEY_6', 'KEY_7'): 1
+	('KEY_SHIFT_L', 'KEY_E'): 1
+	('KEY_R', 'KEY_CONTROL_L'): 1
+	('KEY_SPACE', 'KEY_K', 'KEY_W'): 1
+	('KEY_C', 'KEY_RETURN'): 1
+	('KEY_8', 'KEY_SPACE', 'KEY_W', 'KEY_2', 'KEY_3', 'KEY_K', 'KEY_H'): 1
+	('KEY_RETURN', 'KEY_S'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_O', 'KEY_L'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_S'): 1
+	('KEY_F1', 'KEY_ALT_L'): 1
+	('KEY_N', 'KEY_KP_END'): 1
+	('KEY_PLUS', 'KEY_CONTROL_L'): 1
+	('KEY_SHIFT_R', 'KEY_ISO_LEVEL3_SHIFT'): 1
+	('KEY_COMMA', 'KEY_BACKSPACE'): 1
+	('KEY_SPACE', 'KEY_I', 'KEY_L', 'KEY_S', 'KEY_D', 'KEY_U'): 1
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_H'): 1
+	('KEY_K', 'KEY_CONTROL_L'): 1
+	('KEY_8', 'KEY_SPACE', 'KEY_W', 'KEY_2', 'KEY_3', 'KEY_K', 'KEY_H', 'KEY_9', 'KEY_V'): 1
+	('KEY_K', 'KEY_T', 'KEY_SPACE'): 1
+	('KEY_DUNNO', 'KEY_K'): 1
+	('KEY_PERIOD', 'KEY_L'): 1
+	('KEY_A', 'KEY_TAB', 'KEY_I', 'KEY_N'): 1
+	('KEY_J', 'KEY_SUPER_L'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_O', 'KEY_L', 'KEY_H', 'KEY_D', 'KEY_W', 'KEY_N'): 1
+	('KEY_SPACE', 'KEY_D', 'KEY_E'): 1
+	('KEY_PERIOD', 'KEY_ADIAERESIS', 'KEY_SPACE', 'KEY_P'): 1
+	('KEY_UDIAERESIS', 'KEY_F'): 1
+	('KEY_A', 'KEY_P', 'KEY_SHIFT_L'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_L', 'KEY_3', 'KEY_D', 'KEY_U', 'KEY_F'): 1
+	('KEY_PERIOD', 'KEY_J'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_L', 'KEY_S', 'KEY_N', 'KEY_BACKSPACE'): 1
+	('KEY_SHIFT_R', 'KEY_RIGHT'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_S', 'KEY_N', 'KEY_BACKSPACE'): 1
+	('KEY_G', 'KEY_ADIAERESIS', 'KEY_N'): 1
+	('KEY_D', 'KEY_ODIAERESIS'): 1
+	('KEY_CONTROL_L', 'KEY_RETURN'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_H', 'KEY_U'): 1
+	('KEY_C', 'KEY_SHIFT_R'): 1
+	('KEY_O', 'KEY_G', 'KEY_2', 'KEY_SPACE', 'KEY_W', 'KEY_8', 'KEY_3', 'KEY_9', 'KEY_F', 'KEY_D', 'KEY_Q'): 1
+	('KEY_SPACE', 'KEY_I', 'KEY_L', 'KEY_U'): 1
+	('KEY_F', 'KEY_ADIAERESIS'): 1
+	('KEY_SUPER_L', 'KEY_F1'): 1
+	('KEY_F4', 'KEY_F1', 'KEY_F2'): 1
+	('KEY_I', 'KEY_RIGHT'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_N', 'KEY_BACKSPACE'): 1
+	('KEY_0', 'KEY_SUPER_L'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_I', 'KEY_O', 'KEY_L', 'KEY_S', 'KEY_U'): 1
+	('KEY_SPACE', 'KEY_L', 'KEY_E', 'KEY_U'): 1
+	('KEY_SUPER_L', 'KEY_E'): 1
+	('KEY_ADIAERESIS', 'KEY_ODIAERESIS'): 1
+	('KEY_SHIFT_R', 'KEY_J'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_3'): 1
+	('KEY_SPACE', 'KEY_W', 'KEY_2', 'KEY_3', 'KEY_K', 'KEY_V'): 1
+	('KEY_KP_HOME', 'KEY_NUM_LOCK'): 1
+	('KEY_G', 'KEY_H', 'KEY_ISO_LEVEL3_SHIFT'): 1
+	('KEY_7', 'KEY_SUPER_L'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_K', 'KEY_W', 'KEY_U'): 1
+	('KEY_SUPER_L', 'KEY_UP'): 1
+	('KEY_RETURN', 'KEY_L'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_H', 'KEY_D', 'KEY_N'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_U'): 1
+	('KEY_CONTROL_L', 'KEY_B'): 1
+	('KEY_Y', 'KEY_ADIAERESIS'): 1
+	('KEY_T', 'KEY_SHIFT_L', 'KEY_R'): 1
+	('KEY_K', 'KEY_SUPER_L'): 1
+	('KEY_K', 'KEY_TAB'): 1
+	('KEY_TAB', 'KEY_SPACE'): 1
+	('KEY_8', 'KEY_SUPER_L'): 1
+	('KEY_O', 'KEY_SPACE', 'KEY_W'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_I', 'KEY_O', 'KEY_L', 'KEY_S', 'KEY_U', 'KEY_BACKSPACE'): 1
+	('KEY_TAB', 'KEY_SUPER_L'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_V', 'KEY_3', 'KEY_D', 'KEY_U', 'KEY_F'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_H', 'KEY_D', 'KEY_W', 'KEY_N'): 1
+	('KEY_SPACE', 'KEY_T', 'KEY_Z', 'KEY_R'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_I', 'KEY_L', 'KEY_S', 'KEY_N', 'KEY_U', 'KEY_R', 'KEY_BACKSPACE'): 1
+	('KEY_G', 'KEY_ESCAPE'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_H', 'KEY_B'): 1
+	('KEY_SPACE', 'KEY_I', 'KEY_L', 'KEY_S', 'KEY_D', 'KEY_U', 'KEY_R'): 1
+	('KEY_G', 'KEY_F8'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_D', 'KEY_U'): 1
+	('KEY_SHIFT_R', 'KEY_7', 'KEY_BACKSPACE'): 1
+	('KEY_SUPER_L', 'KEY_F7'): 1
+	('KEY_SPACE', 'KEY_S', 'KEY_B'): 1
+	('KEY_UP', 'KEY_CONTROL_L'): 1
+	('KEY_O', 'KEY_SPACE', 'KEY_W', 'KEY_8'): 1
+	('KEY_PERIOD', 'KEY_ADIAERESIS', 'KEY_COMMA', 'KEY_SPACE', 'KEY_P', 'KEY_ODIAERESIS'): 1
+	('KEY_0', 'KEY_ESCAPE'): 1
+	('KEY_Y', 'KEY_SPACE', 'KEY_U'): 1
+	('KEY_SPACE', 'KEY_I', 'KEY_L', 'KEY_U', 'KEY_BACKSPACE'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_D'): 1
+	('KEY_ADIAERESIS', 'KEY_TAB'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_S', 'KEY_BACKSPACE'): 1
+	('KEY_TAB', 'KEY_SHIFT_L'): 1
+	('KEY_SPACE', 'KEY_E', 'KEY_D'): 1
+	('KEY_ADIAERESIS', 'KEY_ESCAPE'): 1
+	('KEY_H', 'KEY_KP_LEFT'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_D', 'KEY_E', 'KEY_T'): 1
+	('KEY_T', 'KEY_SPACE', 'KEY_H'): 1
+	('KEY_SUPER_L', 'KEY_L'): 1
+	('KEY_Z', 'KEY_ODIAERESIS'): 1
+	('KEY_CONTROL_L', 'KEY_ESCAPE'): 1
+	('KEY_PERIOD', 'KEY_SPACE'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_N', 'KEY_U', 'KEY_BACKSPACE'): 1
+	('KEY_DUNNO', 'KEY_SUPER_L'): 1
+	('KEY_SUPER_L', 'KEY_J'): 1
+	('KEY_P', 'KEY_SHIFT_R'): 1
+	('KEY_SUPER_L', 'KEY_W'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_S', 'KEY_E'): 1
+	('KEY_TAB', 'KEY_L'): 1
+	('KEY_ADIAERESIS', 'KEY_SPACE', 'KEY_P', 'KEY_K'): 1
+	('KEY_LEFT', 'KEY_UP'): 1
+	('KEY_O', 'KEY_G', 'KEY_SPACE', 'KEY_W', 'KEY_8', 'KEY_9', 'KEY_F', 'KEY_D', 'KEY_Q'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_O', 'KEY_S', 'KEY_E'): 1
+	('KEY_RIGHT', 'KEY_L'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_F', 'KEY_D'): 1
+	('KEY_PERIOD', 'KEY_ADIAERESIS', 'KEY_SPACE', 'KEY_P', 'KEY_ODIAERESIS'): 1
+	('KEY_DOWN', 'KEY_PERIOD'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_3', 'KEY_D', 'KEY_F'): 1
+	('KEY_H', 'KEY_ESCAPE'): 1
+	('KEY_V', 'KEY_SHIFT_L'): 1
+	('KEY_UDIAERESIS', 'KEY_DUNNO'): 1
+	('KEY_G', 'KEY_SHIFT_R'): 1
+	('KEY_SPACE', 'KEY_T', 'KEY_E', 'KEY_R', 'KEY_D'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_O', 'KEY_L', 'KEY_S', 'KEY_U', 'KEY_BACKSPACE'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_V', 'KEY_L', 'KEY_3', 'KEY_U'): 1
+	('KEY_G', 'KEY_SPACE', 'KEY_V', 'KEY_L', 'KEY_3', 'KEY_D', 'KEY_U', 'KEY_F'): 1
+	('KEY_LEFT', 'KEY_RIGHT'): 1
+	('KEY_SHIFT_R', 'KEY_Y'): 1
+	('KEY_CONTROL_L', 'KEY_V'): 1
+	('KEY_ADIAERESIS', 'KEY_SPACE', 'KEY_P', 'KEY_S'): 1
+	('KEY_K', 'KEY_ISO_LEVEL3_SHIFT', 'KEY_CONTROL_L'): 1
+	('KEY_CAPS_LOCK', 'KEY_SPACE'): 1
+	('KEY_8', 'KEY_SPACE', 'KEY_V', 'KEY_2', 'KEY_3', 'KEY_H', 'KEY_W', 'KEY_U'): 1
+	('KEY_MINUS', 'KEY_DUNNO'): 1
+	('KEY_SPACE', 'KEY_W', 'KEY_2', 'KEY_3', 'KEY_K', 'KEY_H', 'KEY_V'): 1
+	('KEY_SHIFT_L', 'KEY_F'): 1
+	('KEY_F', 'KEY_RIGHT'): 1
+	('KEY_G', 'KEY_SPACE', 'KEY_E'): 1
+	('KEY_D', 'KEY_U', 'KEY_BACKSPACE', 'KEY_T'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_3', 'KEY_K', 'KEY_W', 'KEY_U'): 1
+	('KEY_A', 'KEY_D', 'KEY_SHIFT_L'): 1
+	('KEY_Z', 'KEY_KP_HOME'): 1
+	('KEY_SPACE', 'KEY_I', 'KEY_U', 'KEY_BACKSPACE'): 1
+	('KEY_TAB', 'KEY_I'): 1
+	('KEY_SPACE', 'KEY_E', 'KEY_N'): 1
+	('KEY_CONTROL_L', 'KEY_T'): 1
+	('KEY_UDIAERESIS', 'KEY_N'): 1
+	('KEY_J', 'KEY_SHIFT_R'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_V', 'KEY_D'): 1
+	('KEY_RIGHT', 'KEY_CONTROL_L'): 1
+	('KEY_8', 'KEY_SPACE', 'KEY_V', 'KEY_3', 'KEY_H', 'KEY_W', 'KEY_U'): 1
+	('KEY_I', 'KEY_SHIFT_L', 'KEY_ODIAERESIS'): 1
+	('KEY_SPACE', 'KEY_P', 'KEY_Z'): 1
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_1'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_L', 'KEY_S', 'KEY_U', 'KEY_BACKSPACE'): 1
+	('KEY_F3', 'KEY_ALT_L'): 1
+	('KEY_SSHARP', 'KEY_D'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_L', 'KEY_3'): 1
+	('KEY_G', 'KEY_Q', 'KEY_SPACE', 'KEY_W', 'KEY_2', 'KEY_3', 'KEY_K', 'KEY_F', 'KEY_V'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_I', 'KEY_D', 'KEY_E', 'KEY_U', 'KEY_T'): 1
+	('KEY_T', 'KEY_CONTROL_R'): 1
+	('KEY_CAPS_LOCK', 'KEY_S'): 1
+	('KEY_INSERT', 'KEY_ISO_LEVEL3_SHIFT'): 1
+	('KEY_ESCAPE', 'KEY_BACKSPACE'): 1
+	('KEY_Q', 'KEY_SHIFT_L'): 1
+	('KEY_Y', 'KEY_SHIFT_R'): 1
+	('KEY_SPACE', 'KEY_E', 'KEY_N', 'KEY_BACKSPACE'): 1
+	('KEY_S', 'KEY_PRIOR'): 1
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_C'): 1
+	('KEY_UDIAERESIS', 'KEY_R'): 1
+	('KEY_PERIOD', 'KEY_D'): 1
+	('KEY_SHIFT_R', 'KEY_PERIOD'): 1
+	('KEY_SHIFT_R', 'KEY_A', 'KEY_N'): 1
+	('KEY_D', 'KEY_ISO_LEVEL3_SHIFT', 'KEY_R'): 1
+	('KEY_SUPER_L', 'KEY_E', 'KEY_A'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_I', 'KEY_O', 'KEY_S', 'KEY_E', 'KEY_U', 'KEY_R'): 1
+	('KEY_CAPS_LOCK', 'KEY_ODIAERESIS'): 1
+	('KEY_SHIFT_R', 'KEY_G', 'KEY_N'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_O', 'KEY_L', 'KEY_S'): 1
+	('KEY_A', 'KEY_TAB', 'KEY_I', 'KEY_N', 'KEY_R'): 1
+	('KEY_SHIFT_R', 'KEY_RETURN'): 1
+	('KEY_PERIOD', 'KEY_T', 'KEY_H'): 1
+	('KEY_COMMA', 'KEY_CONTROL_L'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_V', 'KEY_3', 'KEY_U'): 1
+	('KEY_N', 'KEY_DUNNO', 'KEY_R'): 1
+	('KEY_D', 'KEY_ESCAPE'): 1
+	('KEY_SPACE', 'KEY_P', 'KEY_S', 'KEY_B'): 1
+	('KEY_O', 'KEY_G', 'KEY_SPACE', 'KEY_W', 'KEY_8', 'KEY_F', 'KEY_D', 'KEY_Q'): 1
+	('KEY_PERIOD', 'KEY_O'): 1
+	('KEY_Y', 'KEY_CONTROL_L'): 1
+	('KEY_COMMA', 'KEY_ESCAPE'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_3', 'KEY_H', 'KEY_U'): 1
+	('KEY_F', 'KEY_G', 'KEY_ISO_LEVEL3_SHIFT'): 1
+	('KEY_SUPER_L', 'KEY_H'): 1
+	('KEY_SUPER_L', 'KEY_ISO_LEVEL3_SHIFT'): 1
+	('KEY_SPACE', 'KEY_F'): 1
+	('KEY_SPACE', 'KEY_T', 'KEY_R'): 1
+	('KEY_HOME', 'KEY_CONTROL_L'): 1
+	('KEY_X', 'KEY_F2'): 1
+	('KEY_H', 'KEY_F7'): 1
+	('KEY_F1', 'KEY_F2'): 1
+	('KEY_SPACE', 'KEY_H', 'KEY_D'): 1
+	('KEY_G', 'KEY_SPACE', 'KEY_F'): 1
+	('KEY_8', 'KEY_SPACE', 'KEY_W', 'KEY_2', 'KEY_3', 'KEY_K', 'KEY_H', 'KEY_V'): 1
+	('KEY_UDIAERESIS', 'KEY_T'): 1
+	('KEY_CAPS_LOCK', 'KEY_D'): 1
+	('KEY_C', 'KEY_SPACE', 'KEY_H', 'KEY_D'): 1
+	('KEY_CAPS_LOCK', 'KEY_Z'): 1
+	('KEY_T', 'KEY_TAB', 'KEY_R'): 1
+	('KEY_SPACE', 'KEY_T', 'KEY_E', 'KEY_U', 'KEY_R'): 1
+	('KEY_3', 'KEY_SUPER_L'): 1
+	('KEY_SPACE', 'KEY_I', 'KEY_L', 'KEY_E'): 1
+	('KEY_SPACE', 'KEY_L'): 1
+	('KEY_G', 'KEY_SPACE', 'KEY_W', 'KEY_2', 'KEY_3', 'KEY_K', 'KEY_V'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_I', 'KEY_L', 'KEY_S', 'KEY_U', 'KEY_BACKSPACE'): 1
+	('KEY_O', 'KEY_SPACE', 'KEY_W', 'KEY_8', 'KEY_F', 'KEY_D', 'KEY_Q'): 1
+	('KEY_ESCAPE', 'KEY_M'): 1
+	('KEY_SPACE', 'KEY_D', 'KEY_E', 'KEY_T'): 1
+	('KEY_G', 'KEY_SPACE', 'KEY_D', 'KEY_F'): 1
+	('KEY_SPACE', 'KEY_V', 'KEY_L', 'KEY_3', 'KEY_D', 'KEY_U'): 1
+	('KEY_8', 'KEY_SPACE', 'KEY_V', 'KEY_2', 'KEY_3', 'KEY_9', 'KEY_W', 'KEY_U'): 1
+	('KEY_SPACE', 'KEY_I', 'KEY_U'): 1
+	('KEY_C', 'KEY_SHIFT_L'): 1
+	('KEY_SPACE', 'KEY_O', 'KEY_L', 'KEY_S', 'KEY_N', 'KEY_U', 'KEY_BACKSPACE'): 1
+	('KEY_ESCAPE', 'KEY_I'): 1
+	('KEY_SPACE', 'KEY_K', 'KEY_W', 'KEY_U'): 1
+	('KEY_S', 'KEY_E', 'KEY_ODIAERESIS'): 1
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_UDIAERESIS'): 1
+	('KEY_SUPER_L', 'KEY_2', 'KEY_SHIFT_L'): 1
+	('KEY_L', 'KEY_CONTROL_L'): 1
+	('KEY_M', 'KEY_SHIFT_R'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_I', 'KEY_O', 'KEY_S', 'KEY_E'): 1
+	('KEY_SPACE', 'KEY_H', 'KEY_W'): 1
+	('KEY_Z', 'KEY_ISO_LEVEL3_SHIFT', 'KEY_I'): 1
+	('KEY_2', 'KEY_CONTROL_L'): 1
+	('KEY_A', 'KEY_SPACE', 'KEY_I', 'KEY_L', 'KEY_S', 'KEY_U', 'KEY_R', 'KEY_BACKSPACE'): 1
+	('KEY_X', 'KEY_PERIOD'): 1
+	('KEY_8', 'KEY_SPACE', 'KEY_3', 'KEY_H', 'KEY_W', 'KEY_U'): 1
+	('KEY_Y', 'KEY_J', 'KEY_SHIFT_R'): 1
+	('KEY_E', 'KEY_SHIFT_L', 'KEY_L'): 1
+	('KEY_COMMA', 'KEY_P'): 1
+	('KEY_SUPER_L', 'KEY_R'): 2
+	('KEY_CAPS_LOCK', 'KEY_J'): 2
+	('KEY_SPACE', 'KEY_CONTROL_R'): 2
+	('KEY_E', 'KEY_RETURN'): 2
+	('KEY_F', 'KEY_ESCAPE'): 2
+	('KEY_Z', 'KEY_SHIFT_L'): 2
+	('KEY_H', 'KEY_ISO_LEVEL3_SHIFT'): 2
+	('KEY_2', 'KEY_SUPER_L'): 2
+	('KEY_UDIAERESIS', 'KEY_SUPER_L'): 2
+	('KEY_SHIFT_R', 'KEY_X'): 2
+	('KEY_CONTROL_L', 'KEY_D'): 2
+	('KEY_SPACE', 'KEY_P'): 2
+	('KEY_COMMA', 'KEY_SPACE'): 2
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_N'): 2
+	('KEY_C', 'KEY_SPACE', 'KEY_V', 'KEY_U'): 2
+	('KEY_SHIFT_R', 'KEY_W'): 2
+	('KEY_H', 'KEY_CONTROL_L'): 2
+	('KEY_COMMA', 'KEY_M'): 2
+	('KEY_ODIAERESIS', 'KEY_R'): 2
+	('KEY_SHIFT_R', 'KEY_ODIAERESIS'): 2
+	('KEY_S', 'KEY_ESCAPE'): 2
+	('KEY_Z', 'KEY_RETURN'): 2
+	('KEY_D', 'KEY_TAB'): 2
+	('KEY_UDIAERESIS', 'KEY_S'): 2
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_PRIOR'): 2
+	('KEY_ALT_L', 'KEY_RIGHT'): 2
+	('KEY_SPACE', 'KEY_G'): 2
+	('KEY_K', 'KEY_SHIFT_L'): 2
+	('KEY_J', 'KEY_ESCAPE'): 2
+	('KEY_SPACE', 'KEY_W', 'KEY_K', 'KEY_H'): 2
+	('KEY_N', 'KEY_DUNNO'): 2
+	('KEY_SPACE', 'KEY_O'): 2
+	('KEY_ODIAERESIS', 'KEY_UDIAERESIS'): 2
+	('KEY_SHIFT_L', 'KEY_DELETE'): 2
+	('KEY_SUPER_L', 'KEY_F9'): 2
+	('KEY_SPACE', 'KEY_W', 'KEY_3', 'KEY_K', 'KEY_H'): 2
+	('KEY_SUPER_L', 'KEY_X'): 2
+	('KEY_COMMA', 'KEY_B', 'KEY_M'): 2
+	('KEY_U', 'KEY_ISO_LEVEL3_SHIFT'): 2
+	('KEY_SHIFT_R', 'KEY_8'): 2
+	('KEY_SUPER_L', 'KEY_M'): 2
+	('KEY_SHIFT_R', 'KEY_H'): 2
+	('KEY_C', 'KEY_SPACE', 'KEY_D', 'KEY_F'): 2
+	('KEY_ADIAERESIS', 'KEY_SPACE'): 2
+	('KEY_A', 'KEY_SHIFT_R'): 2
+	('KEY_SHIFT_R', 'KEY_7'): 2
+	('KEY_P', 'KEY_RETURN'): 2
+	('KEY_8', 'KEY_SPACE'): 2
+	('KEY_CONTROL_R', 'KEY_CONTROL_L'): 2
+	('KEY_Y', 'KEY_ISO_LEVEL3_SHIFT'): 2
+	('KEY_COMMA', 'KEY_ISO_LEVEL3_SHIFT', 'KEY_B'): 2
+	('KEY_N', 'KEY_ODIAERESIS'): 2
+	('KEY_T', 'KEY_COMMA'): 2
+	('KEY_A', 'KEY_CAPS_LOCK'): 2
+	('KEY_SUPER_L', 'KEY_CONTROL_R', 'KEY_RETURN'): 2
+	('KEY_SUPER_L', 'KEY_A'): 2
+	('KEY_DUNNO', 'KEY_R'): 2
+	('KEY_SPACE', 'KEY_W', 'KEY_K'): 2
+	('KEY_J', 'KEY_UP'): 2
+	('KEY_SPACE', 'KEY_O', 'KEY_BACKSPACE'): 2
+	('KEY_SPACE', 'KEY_K'): 2
+	('KEY_TAB', 'KEY_G'): 2
+	('KEY_SUPER_L', 'KEY_CONTROL_L'): 2
+	('KEY_SPACE', 'KEY_T', 'KEY_E', 'KEY_D'): 2
+	('KEY_F', 'KEY_ODIAERESIS'): 2
+	('KEY_CAPS_LOCK', 'KEY_CONTROL_L'): 2
+	('KEY_TAB', 'KEY_T'): 2
+	('KEY_J', 'KEY_CONTROL_L'): 2
+	('KEY_G', 'KEY_SPACE', 'KEY_I', 'KEY_L', 'KEY_U'): 2
+	('KEY_SHIFT_R', 'KEY_C'): 2
+	('KEY_C', 'KEY_SPACE', 'KEY_H'): 2
+	('KEY_ODIAERESIS', 'KEY_B'): 3
+	('KEY_SPACE', 'KEY_W'): 3
+	('KEY_SSHARP', 'KEY_I'): 3
+	('KEY_PERIOD', 'KEY_T'): 3
+	('KEY_J', 'KEY_SHIFT_L'): 3
+	('KEY_SUPER_L', 'KEY_7'): 3
+	('KEY_A', 'KEY_SPACE', 'KEY_E'): 3
+	('KEY_SHIFT_R', 'KEY_Z'): 3
+	('KEY_SHIFT_R', 'KEY_SUPER_L'): 3
+	('KEY_SUPER_L', 'KEY_S'): 3
+	('KEY_SUPER_L', 'KEY_DUNNO'): 3
+	('KEY_CAPS_LOCK', 'KEY_F'): 3
+	('KEY_SHIFT_R', 'KEY_P'): 3
+	('KEY_S', 'KEY_ODIAERESIS'): 3
+	('KEY_SUPER_L', 'KEY_4'): 3
+	('KEY_A', 'KEY_SPACE', 'KEY_I', 'KEY_E'): 3
+	('KEY_ESCAPE', 'KEY_ISO_LEVEL3_SHIFT'): 3
+	('KEY_SUPER_L', 'KEY_5'): 3
+	('KEY_V', 'KEY_CONTROL_L'): 3
+	('KEY_T', 'KEY_ESCAPE'): 3
+	('KEY_ESCAPE', 'KEY_CONTROL_L'): 3
+	('KEY_SUPER_L', 'KEY_RETURN'): 3
+	('KEY_SHIFT_R', 'KEY_SHIFT_L'): 3
+	('KEY_SHIFT_R', 'KEY_B'): 3
+	('KEY_TAB', 'KEY_U'): 3
+	('KEY_G', 'KEY_O', 'KEY_SHIFT_L'): 3
+	('KEY_T', 'KEY_DUNNO'): 3
+	('KEY_S', 'KEY_CAPS_LOCK'): 3
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_CONTROL_R'): 3
+	('KEY_C', 'KEY_SUPER_L'): 3
+	('KEY_SPACE', 'KEY_M'): 3
+	('KEY_UDIAERESIS', 'KEY_ODIAERESIS'): 3
+	('KEY_SHIFT_R', 'KEY_V'): 3
+	('KEY_SSHARP', 'KEY_E'): 3
+	('KEY_SHIFT_L', 'KEY_M'): 3
+	('KEY_H', 'KEY_ADIAERESIS'): 4
+	('KEY_A', 'KEY_E', 'KEY_SPACE', 'KEY_U'): 4
+	('KEY_Y', 'KEY_SPACE'): 4
+	('KEY_W', 'KEY_RETURN'): 4
+	('KEY_DUNNO', 'KEY_CONTROL_L'): 4
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_A'): 4
+	('KEY_CAPS_LOCK', 'KEY_MINUS'): 4
+	('KEY_CONTROL_R', 'KEY_SHIFT_L'): 4
+	('KEY_H', 'KEY_ODIAERESIS'): 4
+	('KEY_SUPER_L', 'KEY_U'): 4
+	('KEY_A', 'KEY_E', 'KEY_SPACE', 'KEY_I'): 4
+	('KEY_ESCAPE', 'KEY_R'): 4
+	('KEY_ODIAERESIS', 'KEY_D'): 4
+	('KEY_A', 'KEY_SPACE', 'KEY_I'): 4
+	('KEY_SHIFT_R', 'KEY_K'): 4
+	('KEY_PAGE_DOWN', 'KEY_CONTROL_L'): 4
+	('KEY_A', 'KEY_SPACE', 'KEY_U'): 4
+	('KEY_SUPER_L', 'KEY_6'): 4
+	('KEY_C', 'KEY_SPACE'): 4
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_ESCAPE'): 4
+	('KEY_CONTROL_L', 'KEY_S'): 4
+	('KEY_M', 'KEY_COMMA'): 4
+	('KEY_COMMA', 'KEY_R'): 4
+	('KEY_K', 'KEY_ISO_LEVEL3_SHIFT'): 4
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_BACKSPACE'): 4
+	('KEY_RIGHT', 'KEY_P'): 4
+	('KEY_SUPER_L', 'KEY_V'): 4
+	('KEY_SHIFT_R', 'KEY_BACKSPACE'): 5
+	('KEY_L', 'KEY_SHIFT_L'): 5
+	('KEY_CAPS_LOCK', 'KEY_O'): 5
+	('KEY_SHIFT_R', 'KEY_U'): 5
+	('KEY_TAB', 'KEY_ISO_LEVEL3_SHIFT'): 5
+	('KEY_SHIFT_R', 'KEY_O'): 5
+	('KEY_SPACE', 'KEY_BACKSPACE'): 5
+	('KEY_SUPER_L', 'KEY_K'): 5
+	('KEY_SUPER_L', 'KEY_8'): 5
+	('KEY_CONTROL_L', 'KEY_ALT_L'): 5
+	('KEY_PRIOR', 'KEY_CONTROL_L'): 5
+	('KEY_CONTROL_R', 'KEY_DUNNO'): 5
+	('KEY_K', 'KEY_MINUS'): 5
+	('KEY_K', 'KEY_SPACE'): 5
+	('KEY_SUPER_L', 'KEY_CONTROL_R'): 5
+	('KEY_D', 'KEY_CONTROL_L'): 5
+	('KEY_SUPER_L', 'KEY_3'): 6
+	('KEY_SPACE', 'KEY_T'): 6
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_CONTROL_L'): 6
+	('KEY_S', 'KEY_ISO_LEVEL3_SHIFT'): 6
+	('KEY_ESCAPE', 'KEY_N'): 6
+	('KEY_SPACE', 'KEY_S'): 6
+	('KEY_KP_DOWN', 'KEY_KP_END'): 6
+	('KEY_PERIOD', 'KEY_E'): 6
+	('KEY_UDIAERESIS', 'KEY_ISO_LEVEL3_SHIFT'): 6
+	('KEY_T', 'KEY_ISO_LEVEL3_SHIFT'): 6
+	('KEY_COMMA', 'KEY_N'): 6
+	('KEY_SPACE', 'KEY_E'): 7
+	('KEY_S', 'KEY_RETURN'): 7
+	('KEY_SPACE', 'KEY_B'): 7
+	('KEY_SPACE', 'KEY_ODIAERESIS'): 7
+	('KEY_SHIFT_R', 'KEY_CONTROL_R'): 7
+	('KEY_F', 'KEY_SPACE'): 7
+	('KEY_SHIFT_R', 'KEY_A'): 7
+	('KEY_SHIFT_L', 'KEY_T'): 7
+	('KEY_SHIFT_R', 'KEY_G'): 8
+	('KEY_A', 'KEY_SPACE'): 8
+	('KEY_DOWN', 'KEY_LEFT'): 8
+	('KEY_TAB', 'KEY_CONTROL_L'): 8
+	('KEY_S', 'KEY_CONTROL_L'): 8
+	('KEY_SUPER_L', 'KEY_1'): 8
+	('KEY_SHIFT_L', 'KEY_D'): 8
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_V'): 8
+	('KEY_SPACE', 'KEY_U'): 8
+	('KEY_SHIFT_R', 'KEY_M'): 8
+	('KEY_E', 'KEY_ODIAERESIS'): 8
+	('KEY_DUNNO', 'KEY_CONTROL_R'): 9
+	('KEY_ADIAERESIS', 'KEY_ISO_LEVEL3_SHIFT'): 9
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_F'): 9
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_O'): 9
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_E'): 9
+	('KEY_A', 'KEY_E', 'KEY_SPACE'): 9
+	('KEY_H', 'KEY_SHIFT_L'): 9
+	('KEY_ALT_L', 'KEY_R'): 10
+	('KEY_KP_UP', 'KEY_KP_HOME'): 10
+	('KEY_K', 'KEY_ODIAERESIS'): 10
+	('KEY_CONTROL_R', 'KEY_RETURN'): 10
+	('KEY_PERIOD', 'KEY_S'): 10
+	('KEY_SPACE', 'KEY_I'): 10
+	('KEY_N', 'KEY_ISO_LEVEL3_SHIFT'): 10
+	('KEY_SPACE', 'KEY_R'): 10
+	('KEY_J', 'KEY_SPACE'): 10
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_D'): 10
+	('KEY_C', 'KEY_ISO_LEVEL3_SHIFT'): 10
+	('KEY_SHIFT_R', 'KEY_I'): 11
+	('KEY_KP_BEGIN', 'KEY_KP_LEFT'): 11
+	('KEY_Y', 'KEY_SHIFT_L'): 11
+	('KEY_DELETE', 'KEY_SHIFT_L'): 11
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_B', 'KEY_M'): 12
+	('KEY_SPACE', 'KEY_D'): 12
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_SHIFT_L'): 12
+	('KEY_SHIFT_R', 'KEY_N'): 12
+	('KEY_PERIOD', 'KEY_ISO_LEVEL3_SHIFT'): 12
+	('KEY_SUPER_L', 'KEY_2'): 12
+	('KEY_SHIFT_R', 'KEY_L'): 13
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_M'): 13
+	('KEY_T', 'KEY_TAB'): 14
+	('KEY_COMMA', 'KEY_ISO_LEVEL3_SHIFT'): 14
+	('KEY_S', 'KEY_SHIFT_L'): 14
+	('KEY_E', 'KEY_SPACE'): 15
+	('KEY_S', 'KEY_SPACE'): 15
+	('KEY_M', 'KEY_SPACE'): 15
+	('KEY_N', 'KEY_SHIFT_L'): 16
+	('KEY_SHIFT_R', 'KEY_T'): 16
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_U'): 16
+	('KEY_SHIFT_L', 'KEY_ALT_L'): 18
+	('KEY_SHIFT_L', 'KEY_B'): 18
+	('KEY_SPACE', 'KEY_H'): 18
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_RETURN'): 18
+	('KEY_SUPER_L', 'KEY_9'): 18
+	('KEY_CAPS_LOCK', 'KEY_N'): 18
+	('KEY_K', 'KEY_CAPS_LOCK'): 18
+	('KEY_J', 'KEY_ODIAERESIS'): 19
+	('KEY_TAB', 'KEY_R'): 20
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_P'): 20
+	('KEY_F', 'KEY_ISO_LEVEL3_SHIFT'): 20
+	('KEY_SHIFT_R', 'KEY_S'): 20
+	('KEY_SHIFT_L', 'KEY_L'): 21
+	('KEY_H', 'KEY_SPACE'): 22
+	('KEY_E', 'KEY_SHIFT_L'): 22
+	('KEY_F', 'KEY_SHIFT_L'): 22
+	('KEY_A', 'KEY_ISO_LEVEL3_SHIFT'): 22
+	('KEY_SPACE', 'KEY_ALT_L'): 23
+	('KEY_P', 'KEY_SHIFT_L'): 24
+	('KEY_SHIFT_R', 'KEY_R'): 24
+	('KEY_SHIFT_L', 'KEY_R'): 25
+	('KEY_T', 'KEY_CONTROL_L'): 27
+	('KEY_I', 'KEY_SHIFT_L'): 27
+	('KEY_SHIFT_R', 'KEY_E'): 28
+	('KEY_E', 'KEY_ISO_LEVEL3_SHIFT'): 28
+	('KEY_SUPER_L', 'KEY_C'): 28
+	('KEY_D', 'KEY_SHIFT_L'): 30
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_ODIAERESIS'): 30
+	('KEY_T', 'KEY_SHIFT_L'): 39
+	('KEY_D', 'KEY_ISO_LEVEL3_SHIFT'): 45
+	('KEY_SPACE', 'KEY_N'): 50
+	('KEY_SPACE', 'KEY_ISO_LEVEL3_SHIFT'): 53
+	('KEY_SPACE', 'KEY_CONTROL_L'): 63
+	('KEY_G', 'KEY_SPACE'): 70
+	('KEY_A', 'KEY_SHIFT_L'): 74
+	('KEY_T', 'KEY_SPACE'): 80
+	('KEY_G', 'KEY_SHIFT_L'): 82
+	('KEY_G', 'KEY_ISO_LEVEL3_SHIFT'): 82
+	('KEY_ALT_L', 'KEY_CONTROL_L'): 85
+	('KEY_D', 'KEY_SPACE'): 102
+	('KEY_ALT_L', 'KEY_SHIFT_L'): 123
+	('KEY_O', 'KEY_SHIFT_L'): 149
+	('KEY_COMMA', 'KEY_B'): 197
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_I'): 270
+	('KEY_J', 'KEY_ISO_LEVEL3_SHIFT'): 281
+	('KEY_SHIFT_L', 'KEY_SUPER_L'): 411
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_R'): 500
+	('KEY_SHIFT_L', 'KEY_CONTROL_L'): 582
+	('KEY_ISO_LEVEL3_SHIFT', 'KEY_B'): 735
+	('KEY_SUPER_L', 'KEY_SHIFT_L'): 2311
+single
+	KEY_KP_4: 1
+	KEY_MENU: 1
+	KEY_KP_7: 2
+	KEY_KP_2: 3
+	KEY_KP_SEPARATOR: 4
+	KEY_KP_MULTIPLY: 4
+	KEY_KP_0: 6
+	KEY_KP_3: 6
+	KEY_KP_1: 6
+	KEY_KP_DIVIDE: 6
+	KEY_KP_PAGE_DOWN: 7
+	KEY_KP_6: 7
+	KEY_KP_DOWN: 9
+	KEY_KP_DELETE: 9
+	KEY_KP_8: 10
+	REL_LEFT: 11
+	REL_RIGHT: 11
+	KEY_KP_END: 11
+	KEY_KP_RIGHT: 12
+	KEY_KP_LEFT: 13
+	KEY_KP_UP: 14
+	KEY_KP_PRIOR: 16
+	KEY_KP_9: 17
+	KEY_KP_HOME: 19
+	KEY_KP_5: 20
+	KEY_KP_INSERT: 22
+	KEY_KP_ENTER: 22
+	KEY_KP_BEGIN: 24
+	KEY_NUM_LOCK: 27
+	KEY_PLUS: 31
+	KEY_F6: 40
+	KEY_INSERT: 41
+	KEY_L2: 48
+	KEY_F7: 51
+	KEY_NUMBERSIGN: 62
+	KEY_END: 63
+	KEY_F8: 79
+	KEY_F4: 92
+	KEY_HOME: 98
+	KEY_KP_SUBTRACT: 115
+	KEY_F3: 120
+	KEY_KP_ADD: 125
+	KEY_SUPER_R: 143
+	KEY_L1: 178
+	KEY_F10: 198
+	KEY_F9: 228
+	KEY_SSHARP: 303
+	KEY_DELETE: 313
+	KEY_F1: 380
+	KEY_UDIAERESIS: 490
+	KEY_CONTROL_R: 824
+	KEY_7: 902
+	KEY_6: 925
+	KEY_8: 1064
+	KEY_ADIAERESIS: 1069
+	KEY_F5: 1132
+	KEY_5: 1193
+	KEY_4: 1441
+	KEY_DUNNO: 1489
+	KEY_F2: 1557
+	KEY_ALT_L: 1659
+	KEY_9: 2023
+	KEY_3: 2200
+	KEY_LEFT: 2265
+	KEY_CAPS_LOCK: 2600
+	KEY_0: 2892
+	KEY_Q: 3148
+	KEY_PAGE_DOWN: 3368
+	KEY_Z: 3469
+	KEY_PRIOR: 3896
+	KEY_RIGHT: 3938
+	KEY_2: 4094
+	KEY_MINUS: 4444
+	KEY_DOWN: 4664
+	KEY_1: 4911
+	KEY_COMMA: 6506
+	KEY_Y: 6868
+	KEY_UP: 7132
+	KEY_ODIAERESIS: 8236
+	KEY_SHIFT_R: 8505
+	KEY_PERIOD: 9051
+	KEY_TAB: 10146
+	KEY_X: 11225
+	KEY_SUPER_L: 12173
+	KEY_V: 13208
+	KEY_SHIFT_L: 14010
+	KEY_G: 15296
+	KEY_F: 16221
+	KEY_P: 16387
+	KEY_CONTROL_L: 16580
+	KEY_M: 17791
+	KEY_C: 21181
+	KEY_H: 21485
+	KEY_U: 21568
+	KEY_O: 24479
+	KEY_L: 25535
+	KEY_K: 26553
+	KEY_W: 30794
+	KEY_J: 31405
+	KEY_ESCAPE: 31802
+	KEY_R: 31822
+	KEY_S: 33681
+	KEY_N: 33807
+	KEY_D: 34706
+	KEY_B: 34747
+	KEY_T: 36275
+	KEY_I: 42597
+	KEY_A: 45905
+	KEY_RETURN: 47042
+	KEY_ISO_LEVEL3_SHIFT: 48521
+	KEY_BACKSPACE: 55117
+	KEY_E: 58986
+	KEY_SPACE: 59211
