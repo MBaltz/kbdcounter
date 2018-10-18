@@ -23,6 +23,7 @@ class KbdCounter(object):
     def __init__(self, options):
         self.storepath=os.path.expanduser(options.storepath)
         self.conn = sqlite3.connect(self.storepath)
+        os.chmod(self.storepath,0600)                  
         self.dbcursor = self.conn.cursor()
         self.initialise_database()
 
