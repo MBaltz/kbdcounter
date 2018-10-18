@@ -3,6 +3,7 @@
 import os
 import time
 import threading
+import math
 from datetime import datetime, timedelta
 from optparse import OptionParser
 import csv
@@ -19,13 +20,18 @@ except ImportError:
 import sqlite3
 from record import *
 
+def distance(p0, p1):
+    return math.sqrt((p0[0] - p1[0])**2 + (p0[1] - p1[1])**2)
+
 class KbdCounter(object):
     def __init__(self, options):
         self.storepath=os.path.expanduser(options.storepath)
         self.conn = sqlite3.connect(self.storepath)
-        os.chmod(self.storepath,0600)                  
+        os.chmod(self.storepath, 0o600)                  
         self.dbcursor = self.conn.cursor()
         self.initialise_database()
+        self.lastmove=(0,0)
+        self.elapsed_distance = 0.0
 
         self.records = []
         self.lastsave = datetime.now()
@@ -43,12 +49,22 @@ class KbdCounter(object):
 
     def save(self):
         # self.set_nextsave()
+        record = Record()
+        record.time = datetime.now().strftime(timeformat)
+        record.app_name = "NULL"
+        record.code = 'EV_MOV'
+        record.scancode = 128
+        record.value = self.elapsed_distance
+        self.records.append(record)
+
         for record in self.records:
-            self.dbcursor.execute('insert into record \
+            if record.code == 'EV_MOV' or record.value == 0:
+                self.dbcursor.execute('insert into record \
                                   (time,app_name,code,scancode,value) values \
                                   (?,?,?,?,?)', \
                                   (record.time, record.app_name, record.code, record.scancode, record.value))
         self.records = []
+        self.elapsed_distance = 0.0
         self.lastsave = datetime.now()
         self.conn.commit()
 
@@ -64,19 +80,22 @@ class KbdCounter(object):
     def event_handler(self):
         evt = self.events.next_event()
         while(evt):
-            if evt.type != "EV_KEY": # Only count key down, not up.
+            if evt.type != "EV_KEY" and evt.type != "EV_MOV": # Only count key down, not up.
                 evt = self.events.next_event()
                 continue
-
-            self.set_current_window()
-
-            record = Record()
-            record.time = datetime.now().strftime(timeformat)
-            record.app_name = self.cur_win
-            record.code = evt.get_code()
-            record.scancode = evt.get_scancode()
-            record.value = evt.get_value()
-            self.records.append(record)
+            if evt.type == 'EV_KEY':
+                self.set_current_window()
+                record = Record()
+                record.time = datetime.now().strftime(timeformat)
+                record.app_name = self.cur_win
+                record.code = evt.get_code()
+                record.scancode = evt.get_scancode()
+                record.value = evt.get_value()
+                self.records.append(record)
+            elif evt.type == 'EV_MOV':
+                self.set_current_window()
+                self.elapsed_distance += distance(evt.value, self.lastmove)
+                self.lastmove = evt.value
 
             if (datetime.now() - self.lastsave).total_seconds() > 60:
                 self.save()
