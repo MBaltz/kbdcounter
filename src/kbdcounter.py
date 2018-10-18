@@ -8,7 +8,14 @@ from optparse import OptionParser
 import csv
 from xlib import XEvents
 from ast import literal_eval
-from gi.repository import Gtk, Wnck
+try:
+    from gi.repository import Gtk, Wnck
+except ImportError:
+    try:
+        from pgi.repository import Gtk, Wnck
+    except ImportError:
+        print("Could not import gi, nor pgi; try running 'pip install pgi'")
+
 import sqlite3
 from record import *
 
