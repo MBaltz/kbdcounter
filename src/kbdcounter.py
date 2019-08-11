@@ -50,7 +50,8 @@ class KbdCounter(object):
     def save(self):
         # self.set_nextsave()
         record = Record()
-        record.time = datetime.now().strftime(timeformat)
+#        record.time = datetime.now().strftime(timeformat)
+        record.time = time.time()
         record.app_name = "NULL"
         record.code = 'EV_MOV'
         record.scancode = 128
@@ -86,7 +87,8 @@ class KbdCounter(object):
             if evt.type == 'EV_KEY':
                 self.set_current_window()
                 record = Record()
-                record.time = datetime.now().strftime(timeformat)
+#                record.time = datetime.now().strftime(timeformat)
+                record.time = time.time()
                 record.app_name = self.cur_win
                 record.code = evt.get_code()
                 record.scancode = evt.get_scancode()
