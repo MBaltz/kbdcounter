@@ -10,13 +10,17 @@ Installation
 ------------
 
 Required packages, they might have a different name on your system (python should work, too):
-- python3-xlib
+- `python3-xlib`, `libwnck3`
+- `$ pip install pgi`
 
 Run *src/kbdcounter.py*. After 1 minute, verify that it's working by
 inspecting ~/.kbdcounter.db (e.g. with sqlitebrowser).
 
 The program should be started automatically when your desktop session
 is started. 
+
+> To visualize the db file, I recommend using the sqlitebrowser program.
+
 
 Analyzing
 ---------
